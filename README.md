@@ -1,3 +1,5 @@
+
+
 # 🔢 BCD Multiplexed 7-Segment Display Driver
 
 عرض رقمين BCD (A و B) على شاشتين Common-Cathode باستخدام تقنية الـ **Multiplexing**، مبني على 74HC157 (Multiplexer) + 7448/7447 (BCD to 7-Segment Decoder) + 74HC139 (Decoder للتحكم في تفعيل كل شاشة).
