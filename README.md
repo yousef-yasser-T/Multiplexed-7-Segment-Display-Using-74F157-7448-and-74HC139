@@ -1,3 +1,4 @@
+<img width="691" height="1536" alt="WhatsApp Image 2026-08-17 at 2 38 12 AM" src="https://github.com/user-attachments/assets/de42bbec-924e-4902-8754-a55e12122dda" />
 
 
 # 🔢 BCD Multiplexed 7-Segment Display Driver
